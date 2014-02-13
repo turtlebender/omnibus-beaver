@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary beaver removal steps
+# after package is uninstalled.
+#
+
+echo "beaver has been uninstalled!"
+
+exit 0
